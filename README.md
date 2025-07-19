@@ -17,4 +17,3 @@ python -W ignore main.py --CLS 4 --BSZ 256 --DATA_DIR ./data --SET_TYPE test --N
 `--BSZ`: batch size.
 
 `--DATA_DIR`: location of data.
-```
